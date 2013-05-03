@@ -235,8 +235,8 @@ ul.compact li a {
 	display: inline;
 }
 #header ul li a:hover {
-	color: blue;
-	border-bottom: 2px solid blue;
+	color: maroon;
+	border-bottom: 2px solid maroon;
 }
 #header .byline {
 	color: silver;
@@ -469,7 +469,7 @@ p.delicious-extended:before { content: ' — '; }
 #footer a {
 	font-variant: small-caps;
 	font-style: normal;
-	color: #77d;
+	color: maroon;
 	text-decoration: none;
 }
 #footer .copyright {
