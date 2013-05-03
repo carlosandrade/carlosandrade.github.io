@@ -28,6 +28,7 @@ body {
 	
 	 
 	background: url('final.svg');
+	background-size: cover;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
     background-size: 449px 703px;
