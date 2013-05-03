@@ -83,11 +83,11 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : carlos
     livefyre :
       site_id : 123
     intensedebate :
-      account : 123abc
+      account : carlosviansi@gmail.com
     facebook :
       appid : 123
       num_posts: 5
@@ -101,7 +101,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-40629344-1'
     getclicky :
       site_id : 
     mixpanel :
