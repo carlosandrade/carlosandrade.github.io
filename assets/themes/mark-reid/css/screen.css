@@ -24,11 +24,18 @@ body {
 	font-family: Palatino, georgia, "times new roman", serif;
 	background-color: white;
 	background-position: center -18em;
-	background-repeat: repeat-x; 
-	background-image:url('flower_jap.jpg');
+	background-repeat: repeat-x;
+	
+	 
+	background: url('final.svg');
+    background-size: 100px 82px;
+	background-position: right top; 		 
+	
+/*	background-image:url('final.svg');
+    background-size: cover;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-	background-position:right top; 
+	background-position:right top; */
 }
 
 /* Hack via Joel Spolsky to make image rescaling nicer in IE */
